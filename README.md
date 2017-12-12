@@ -1,3 +1,1 @@
-# EasyBuySystem
-# ChessGame
 # ChessGame

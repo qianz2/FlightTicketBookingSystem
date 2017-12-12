@@ -1,0 +1,10 @@
+sql = oracle.jdbc.OracleDriver
+url = jdbc:oracle:thin:@192.168.5.55:1521:ORCL
+username = scott
+password = 123
+
+init = 10
+maxidle = 20
+minidle = 3
+maxactive = 50
+wait = 1000
